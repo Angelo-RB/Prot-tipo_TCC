@@ -4,7 +4,6 @@
 *
 * Classe que converte a senha de acordo com o armazenamento no banco de dados
 *
-* @author Code Universe
 *
 **/
 class PasswordConverter

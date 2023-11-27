@@ -4,7 +4,7 @@
 *
 * Classe que converte uma data para o formato do banco de dados.
 *
-* @author Willen L. Carneiro
+* 
 *
 **/
 class DateConverter

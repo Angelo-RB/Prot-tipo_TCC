@@ -4,7 +4,6 @@
 *
 * Helper que serve para adicionar a url em um arquivo ou link.
 *
-* @author Code Universe
 * 
 **/
 class URLHelper
