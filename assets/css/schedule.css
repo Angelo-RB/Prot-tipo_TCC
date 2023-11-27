@@ -1,0 +1,8 @@
+.scheduling-content {
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+div.calendar div.row-cells:not(.header-days) div.cell {
+    aspect-ratio: 16/9;
+}
